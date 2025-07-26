@@ -4,14 +4,11 @@
 
 A WhatsApp bot that converts voice messages into Todoist tasks using OpenAI Whisper. **100% free** and self-hosted using Baileys (WhatsApp Web).
 
-## 🆓 Why This Project?
+## Architecture
 
-Most WhatsApp bots require expensive APIs. This project uses:
 - **Baileys** - Free WhatsApp Web library (no API costs)
 - **Self-hosted** - Run on your own infrastructure
 - **Open source** - Full transparency and control
-
-## Architecture
 
 ```
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
